@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 ## special files
-CMCC_Data/
-CMCC_Info/
+CMCC_Data/*.csv
+CMCC_Info/*.csv
 *.png
 *.jpg
 *.csv
