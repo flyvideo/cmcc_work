@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+## special files
+CMCC_Data/
+CMCC_Info/
+*.png
+*.jpg
+*.csv
+
+
